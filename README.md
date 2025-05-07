@@ -17,7 +17,7 @@ Este projeto consiste em um aplicativo **frontend** desenvolvido com **React Nat
 - **JavaScript**
 - **fetch API** (para requisições HTTP)
 
-## 🎨 Funcionalidades
+## 🛠️ Funcionalidades
 
 - Consumo de dados da SWAPI
 - Exibição de personagens em **cards responsivos**
